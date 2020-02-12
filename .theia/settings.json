@@ -3,8 +3,5 @@
    "python.linting.enabled": true,
    "python.linting.pep8Enabled": false,
    "python.linting.flake8Enabled": true,
-   "python.terminal.activateEnvironment": false,
-   "MONGO_URI": "mongodb+srv://root:r00tUser@myfirstcluster-t99h4.mongodb.net/myTestDB?retryWrites=true&w=majority"
+   "python.terminal.activateEnvironment": false
 }
-
-
